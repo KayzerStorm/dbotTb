@@ -1,0 +1,2024 @@
+{
+    "name": "Rotworms Liberty Bay/Darashia",
+    "level": 8,
+    "location": "Darashia",
+    "category": "Low Level",
+    "id": 1,
+    "image": "https://tibia.fandom.com/wiki/Rotworms_Liberty_Bay/Darashia?file=Rotworms_Liberty_Bay/Darashia.png"
+  },
+  {
+    "name": "Larva Ankrahmun",
+    "level": 8,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 2,
+    "image": "https://tibia.fandom.com/wiki/Larva_Ankrahmun?file=Larva_Ankrahmun.png"
+  },
+  {
+    "name": "Swamp Trolls Port Hope/Venore",
+    "level": 8,
+    "location": "Venore",
+    "category": "Low Level",
+    "id": 3,
+    "image": "https://tibia.fandom.com/wiki/Swamp_Trolls_Port_Hope/Venore?file=Swamp_Trolls_Port_Hope/Venore.png"
+  },
+  {
+    "name": "Crocodiles Port Hope",
+    "level": 8,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 4,
+    "image": "https://tibia.fandom.com/wiki/Crocodiles_Port_Hope?file=Crocodiles_Port_Hope.png"
+  },
+  {
+    "name": "Ancient Temple",
+    "level": 8,
+    "location": "Thais",
+    "category": "Low Level",
+    "id": 5,
+    "image": "https://tibia.fandom.com/wiki/Ancient_Temple?file=Ancient_Temple.png"
+  },
+  {
+    "name": "Carlin Amazon Camp",
+    "level": 8,
+    "location": "Carlin",
+    "category": "Low Level",
+    "id": 6,
+    "image": "https://tibia.fandom.com/wiki/Carlin_Amazon_Camp?file=Carlin_Amazon_Camp.png"
+  },
+  {
+    "name": "Carlin Graveyard",
+    "level": 8,
+    "location": "Carlin",
+    "category": "Low Level",
+    "id": 7,
+    "image": "https://tibia.fandom.com/wiki/Carlin_Graveyard?file=Carlin_Graveyard.png"
+  },
+  {
+    "name": "Carlin Sewers",
+    "level": 8,
+    "location": "Carlin",
+    "category": "Low Level",
+    "id": 8,
+    "image": "https://tibia.fandom.com/wiki/Carlin_Sewers?file=Carlin_Sewers.png"
+  },
+  {
+    "name": "Thais",
+    "level": 8,
+    "location": "Thais",
+    "category": "Low Level",
+    "id": 9,
+    "image": "https://tibia.fandom.com/wiki/Thais?file=Thais.png"
+  },
+  {
+    "name": "Ankrahmun Library Tomb",
+    "level": 10,
+    "location": "Ankrahmun",
+    "category": "Low Level",
+    "id": 10,
+    "image": "https://tibia.fandom.com/wiki/Ankrahmun_Library_Tomb?file=Ankrahmun_Library_Tomb.png"
+  },
+  {
+    "name": "Dwarf Mines",
+    "level": 10,
+    "location": "Kazordoon",
+    "category": "Low Level",
+    "id": 11,
+    "image": "https://tibia.fandom.com/wiki/Dwarf_Mines?file=Dwarf_Mines.png"
+  },
+  {
+    "name": "Folda",
+    "level": 10,
+    "location": "Carlin",
+    "category": "Low Level",
+    "id": 12,
+    "image": "https://tibia.fandom.com/wiki/Folda?file=Folda.png"
+  },
+  {
+    "name": "Liberty Bay",
+    "level": 10,
+    "location": "Liberty Bay",
+    "category": "Low Level",
+    "id": 13,
+    "image": "https://tibia.fandom.com/wiki/Liberty_Bay?file=Liberty_Bay.png"
+  },
+  {
+    "name": "Poacher Cave",
+    "level": 10,
+    "location": "Carlin",
+    "category": "Low Level",
+    "id": 14,
+    "image": "https://tibia.fandom.com/wiki/Poacher_Cave?file=Poacher_Cave.png"
+  },
+  {
+    "name": "Port Hope",
+    "level": 10,
+    "location": "Port Hope",
+    "category": "Low Level",
+    "id": 15,
+    "image": "https://tibia.fandom.com/wiki/Port_Hope?file=Port_Hope.png"
+  },
+  {
+    "name": "Stone Home",
+    "level": 10,
+    "location": "Edron",
+    "category": "Low Level",
+    "id": 16,
+    "image": "https://tibia.fandom.com/wiki/Stone_Home?file=Stone_Home.png"
+  },
+  {
+    "name": "Venore",
+    "level": 10,
+    "location": "Venore",
+    "category": "Low Level",
+    "id": 17,
+    "image": "https://tibia.fandom.com/wiki/Venore?file=Venore.png"
+  },
+  {
+    "name": "Ancient Ruins Tomb",
+    "level": 11,
+    "location": "Ankrahmun",
+    "category": "Low Level",
+    "id": 18,
+    "image": "https://tibia.fandom.com/wiki/Ancient_Ruins_Tomb?file=Ancient_Ruins_Tomb.png"
+  },
+  {
+    "name": "Alatar Lake",
+    "level": 15,
+    "location": "Thais",
+    "category": "Low Level",
+    "id": 19,
+    "image": "https://tibia.fandom.com/wiki/Alatar_Lake?file=Alatar_Lake.png"
+  },
+  {
+    "name": "Amazon Tower",
+    "level": 15,
+    "location": "Carlin",
+    "category": "Low Level",
+    "id": 20,
+    "image": "https://tibia.fandom.com/wiki/Amazon_Tower?file=Amazon_Tower.png"
+  },
+  {
+    "name": "Arena and Zoo Quarter",
+    "level": 15,
+    "location": "Yalahar",
+    "category": "Low Level",
+    "id": 21,
+    "image": "https://tibia.fandom.com/wiki/Arena_and_Zoo_Quarter?file=Arena_and_Zoo_Quarter.png"
+  },
+  {
+    "name": "Chakoya Iceberg",
+    "level": 15,
+    "location": "Port Hope",
+    "category": "Low Level",
+    "id": 22,
+    "image": "https://tibia.fandom.com/wiki/Chakoya_Iceberg?file=Chakoya_Iceberg.png"
+  },
+  {
+    "name": "Tarantula Caves",
+    "level": 15,
+    "location": "Port Hope",
+    "category": "Low Level",
+    "id": 23,
+    "image": "https://tibia.fandom.com/wiki/Tarantula_Caves?file=Tarantula_Caves.png"
+  },
+  {
+    "name": "Tarantulas Port Hope",
+    "level": 16,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 24,
+    "image": "https://tibia.fandom.com/wiki/Tarantulas_Port_Hope?file=Tarantulas_Port_Hope.png"
+  },
+  {
+    "name": "Elves Yalahar",
+    "level": 16,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 25,
+    "image": "https://tibia.fandom.com/wiki/Elves_Yalahar?file=Elves_Yalahar.png"
+  },
+  {
+    "name": "Yalahar/Darashia Minotaurs (Stealth Ring)",
+    "level": 16,
+    "location": "Darashia Minotaurs (Stealth Ring)",
+    "category": "Low Level",
+    "id": 26,
+    "image": "https://tibia.fandom.com/wiki/Yalahar/Darashia_Minotaurs_(Stealth_Ring)?file=Yalahar/Darashia_Minotaurs_(Stealth_Ring).png"
+  },
+  {
+    "name": "Stonerefiners (Stealth Ring)",
+    "level": 20,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 27,
+    "image": "https://tibia.fandom.com/wiki/Stonerefiners_(Stealth_Ring)?file=Stonerefiners_(Stealth_Ring).png"
+  },
+  {
+    "name": "Mutated Humans Yalahar (Single target)",
+    "level": 20,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 28,
+    "image": "https://tibia.fandom.com/wiki/Mutated_Humans_Yalahar_(Single_target)?file=Mutated_Humans_Yalahar_(Single_target).png"
+  },
+  {
+    "name": "Ab'Dendriel Elf Cave",
+    "level": 20,
+    "location": "Ab'Dendriel",
+    "category": "Low Level",
+    "id": 29,
+    "image": "https://tibia.fandom.com/wiki/Ab'Dendriel_Elf_Cave?file=Ab'Dendriel_Elf_Cave.png"
+  },
+  {
+    "name": "Ab'Dendriel Slimes Cave",
+    "level": 20,
+    "location": "Ab'Dendriel",
+    "category": "Low Level",
+    "id": 30,
+    "image": "https://tibia.fandom.com/wiki/Ab'Dendriel_Slimes_Cave?file=Ab'Dendriel_Slimes_Cave.png"
+  },
+  {
+    "name": "Edron Orc Cave",
+    "level": 20,
+    "location": "Edron",
+    "category": "Low Level",
+    "id": 31,
+    "image": "https://tibia.fandom.com/wiki/Edron_Orc_Cave?file=Edron_Orc_Cave.png"
+  },
+  {
+    "name": "Shadowthorn",
+    "level": 20,
+    "location": "Venore",
+    "category": "Low Level",
+    "id": 32,
+    "image": "https://tibia.fandom.com/wiki/Shadowthorn?file=Shadowthorn.png"
+  },
+  {
+    "name": "Svargrond",
+    "level": 20,
+    "location": "Svargrond",
+    "category": "Low Level",
+    "id": 33,
+    "image": "https://tibia.fandom.com/wiki/Svargrond?file=Svargrond.png"
+  },
+  {
+    "name": "Tiquanda",
+    "level": 20,
+    "location": "Port Hope",
+    "category": "Low Level",
+    "id": 34,
+    "image": "https://tibia.fandom.com/wiki/Tiquanda?file=Tiquanda.png"
+  },
+  {
+    "name": "Trade Quarter",
+    "level": 20,
+    "location": "Yalahar",
+    "category": "Low Level",
+    "id": 35,
+    "image": "https://tibia.fandom.com/wiki/Trade_Quarter?file=Trade_Quarter.png"
+  },
+  {
+    "name": "Yalahar",
+    "level": 20,
+    "location": "Yalahar",
+    "category": "Low Level",
+    "id": 36,
+    "image": "https://tibia.fandom.com/wiki/Yalahar?file=Yalahar.png"
+  },
+  {
+    "name": "Barbarian Settlements",
+    "level": 22,
+    "location": "Svargrond",
+    "category": "Low Level",
+    "id": 37,
+    "image": "https://tibia.fandom.com/wiki/Barbarian_Settlements?file=Barbarian_Settlements.png"
+  },
+  {
+    "name": "Bittermor",
+    "level": 28,
+    "location": "Svargrond",
+    "category": "Low Level",
+    "id": 38,
+    "image": "https://tibia.fandom.com/wiki/Bittermor?file=Bittermor.png"
+  },
+  {
+    "name": "Coryms Port Hope",
+    "level": 30,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 39,
+    "image": "https://tibia.fandom.com/wiki/Coryms_Port_Hope?file=Coryms_Port_Hope.png"
+  },
+  {
+    "name": "Zombies Treasure Island",
+    "level": 30,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 40,
+    "image": "https://tibia.fandom.com/wiki/Zombies_Treasure_Island?file=Zombies_Treasure_Island.png"
+  },
+  {
+    "name": "Laguna Islands",
+    "level": 30,
+    "location": "Liberty Bay",
+    "category": "Low Level",
+    "id": 41,
+    "image": "https://tibia.fandom.com/wiki/Laguna_Islands?file=Laguna_Islands.png"
+  },
+  {
+    "name": "Banuta",
+    "level": 30,
+    "location": "Port Hope",
+    "category": "Low Level",
+    "id": 42,
+    "image": "https://tibia.fandom.com/wiki/Banuta?file=Banuta.png"
+  },
+  {
+    "name": "Cormaya Dwarf Cave",
+    "level": 30,
+    "location": "Edron",
+    "category": "Low Level",
+    "id": 43,
+    "image": "https://tibia.fandom.com/wiki/Cormaya_Dwarf_Cave?file=Cormaya_Dwarf_Cave.png"
+  },
+  {
+    "name": "Ghostship",
+    "level": 30,
+    "location": "Venore",
+    "category": "Low Level",
+    "id": 44,
+    "image": "https://tibia.fandom.com/wiki/Ghostship?file=Ghostship.png"
+  },
+  {
+    "name": "Hellgate",
+    "level": 30,
+    "location": "Ab'Dendriel",
+    "category": "Low Level",
+    "id": 45,
+    "image": "https://tibia.fandom.com/wiki/Hellgate?file=Hellgate.png"
+  },
+  {
+    "name": "Magician Quarter",
+    "level": 30,
+    "location": "Yalahar",
+    "category": "Low Level",
+    "id": 46,
+    "image": "https://tibia.fandom.com/wiki/Magician_Quarter?file=Magician_Quarter.png"
+  },
+  {
+    "name": "Mintwallin",
+    "level": 30,
+    "location": "Thais",
+    "category": "Low Level",
+    "id": 47,
+    "image": "https://tibia.fandom.com/wiki/Mintwallin?file=Mintwallin.png"
+  },
+  {
+    "name": "Mother of Scarabs Lair -3",
+    "level": 35,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 48,
+    "image": "https://tibia.fandom.com/wiki/Mother_of_Scarabs_Lair_-3?file=Mother_of_Scarabs_Lair_-3.png"
+  },
+  {
+    "name": "Pirates Yalahar",
+    "level": 35,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 49,
+    "image": "https://tibia.fandom.com/wiki/Pirates_Yalahar?file=Pirates_Yalahar.png"
+  },
+  {
+    "name": "Mutated Humans Yalahar (Exori)",
+    "level": 35,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 50,
+    "image": "https://tibia.fandom.com/wiki/Mutated_Humans_Yalahar_(Exori)?file=Mutated_Humans_Yalahar_(Exori).png"
+  },
+  {
+    "name": "Blood Crabs Laguna Islands",
+    "level": 35,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 51,
+    "image": "https://tibia.fandom.com/wiki/Blood_Crabs_Laguna_Islands?file=Blood_Crabs_Laguna_Islands.png"
+  },
+  {
+    "name": "Alchemist Quarter",
+    "level": 35,
+    "location": "Yalahar",
+    "category": "Low Level",
+    "id": 52,
+    "image": "https://tibia.fandom.com/wiki/Alchemist_Quarter?file=Alchemist_Quarter.png"
+  },
+  {
+    "name": "Carlin Corym Cave",
+    "level": 35,
+    "location": "Carlin",
+    "category": "Low Level",
+    "id": 53,
+    "image": "https://tibia.fandom.com/wiki/Carlin_Corym_Cave?file=Carlin_Corym_Cave.png"
+  },
+  {
+    "name": "Cemetery Quarter",
+    "level": 40,
+    "location": "Yalahar",
+    "category": "Low Level",
+    "id": 54,
+    "image": "https://tibia.fandom.com/wiki/Cemetery_Quarter?file=Cemetery_Quarter.png"
+  },
+  {
+    "name": "Drefia",
+    "level": 40,
+    "location": "Darashia",
+    "category": "Low Level",
+    "id": 55,
+    "image": "https://tibia.fandom.com/wiki/Drefia?file=Drefia.png"
+  },
+  {
+    "name": "Corym Black Market",
+    "level": 45,
+    "location": "Liberty Bay",
+    "category": "Low Level",
+    "id": 56,
+    "image": "https://tibia.fandom.com/wiki/Corym_Black_Market?file=Corym_Black_Market.png"
+  },
+  {
+    "name": "Lion's Rock",
+    "level": 50,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 57,
+    "image": "https://tibia.fandom.com/wiki/Lion's_Rock?file=Lion's_Rock.png"
+  },
+  {
+    "name": "Nibelor Crystal Spiders",
+    "level": 50,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 58,
+    "image": "https://tibia.fandom.com/wiki/Nibelor_Crystal_Spiders?file=Nibelor_Crystal_Spiders.png"
+  },
+  {
+    "name": "Vengoth Haunted Treelings",
+    "level": 50,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 59,
+    "image": "https://tibia.fandom.com/wiki/Vengoth_Haunted_Treelings?file=Vengoth_Haunted_Treelings.png"
+  },
+  {
+    "name": "Old Fortress -1 (Bonebeasts)",
+    "level": 50,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 60,
+    "image": "https://tibia.fandom.com/wiki/Old_Fortress_-1_(Bonebeasts)?file=Old_Fortress_-1_(Bonebeasts).png"
+  },
+  {
+    "name": "Darashia Dragon Lair",
+    "level": 50,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 61,
+    "image": "https://tibia.fandom.com/wiki/Darashia_Dragon_Lair?file=Darashia_Dragon_Lair.png"
+  },
+  {
+    "name": "Mutated Rats Alchemist Quarter",
+    "level": 50,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 62,
+    "image": "https://tibia.fandom.com/wiki/Mutated_Rats_Alchemist_Quarter?file=Mutated_Rats_Alchemist_Quarter.png"
+  },
+  {
+    "name": "Yalahar Dragons",
+    "level": 50,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 63,
+    "image": "https://tibia.fandom.com/wiki/Yalahar_Dragons?file=Yalahar_Dragons.png"
+  },
+  {
+    "name": "Carlin Dragon Lair",
+    "level": 50,
+    "location": "Carlin",
+    "category": "Low Level",
+    "id": 64,
+    "image": "https://tibia.fandom.com/wiki/Carlin_Dragon_Lair?file=Carlin_Dragon_Lair.png"
+  },
+  {
+    "name": "Chor",
+    "level": 50,
+    "location": "Port Hope",
+    "category": "Low Level",
+    "id": 65,
+    "image": "https://tibia.fandom.com/wiki/Chor?file=Chor.png"
+  },
+  {
+    "name": "Deeper Fibula",
+    "level": 50,
+    "location": "Thais",
+    "category": "Low Level",
+    "id": 66,
+    "image": "https://tibia.fandom.com/wiki/Deeper_Fibula?file=Deeper_Fibula.png"
+  },
+  {
+    "name": "Edron Dragon Lair",
+    "level": 50,
+    "location": "Edron",
+    "category": "Low Level",
+    "id": 67,
+    "image": "https://tibia.fandom.com/wiki/Edron_Dragon_Lair?file=Edron_Dragon_Lair.png"
+  },
+  {
+    "name": "Fenrock",
+    "level": 50,
+    "location": "Yalahar",
+    "category": "Low Level",
+    "id": 68,
+    "image": "https://tibia.fandom.com/wiki/Fenrock?file=Fenrock.png"
+  },
+  {
+    "name": "Feyrist",
+    "level": 50,
+    "location": "Feyrist",
+    "category": "Low Level",
+    "id": 69,
+    "image": "https://tibia.fandom.com/wiki/Feyrist?file=Feyrist.png"
+  },
+  {
+    "name": "Kha'zeel",
+    "level": 50,
+    "location": "Ankrahmun",
+    "category": "Low Level",
+    "id": 70,
+    "image": "https://tibia.fandom.com/wiki/Kha'zeel?file=Kha'zeel.png"
+  },
+  {
+    "name": "Krailos",
+    "level": 50,
+    "location": "Gray Beach",
+    "category": "Low Level",
+    "id": 71,
+    "image": "https://tibia.fandom.com/wiki/Krailos?file=Krailos.png"
+  },
+  {
+    "name": "Oramond",
+    "level": 50,
+    "location": "Rathleton",
+    "category": "Low Level",
+    "id": 72,
+    "image": "https://tibia.fandom.com/wiki/Oramond?file=Oramond.png"
+  },
+  {
+    "name": "Zao",
+    "level": 50,
+    "location": "Farmine",
+    "category": "Low Level",
+    "id": 73,
+    "image": "https://tibia.fandom.com/wiki/Zao?file=Zao.png"
+  },
+  {
+    "name": "Beregar Mines",
+    "level": 60,
+    "location": "Yalahar",
+    "category": "Low Level",
+    "id": 74,
+    "image": "https://tibia.fandom.com/wiki/Beregar_Mines?file=Beregar_Mines.png"
+  },
+  {
+    "name": "Beregar/Bonelord Cave",
+    "level": 60,
+    "location": "Yalahar",
+    "category": "Low Level",
+    "id": 75,
+    "image": "https://tibia.fandom.com/wiki/Beregar/Bonelord_Cave?file=Beregar/Bonelord_Cave.png"
+  },
+  {
+    "name": "Corym Mines",
+    "level": 60,
+    "location": "Venore",
+    "category": "Low Level",
+    "id": 76,
+    "image": "https://tibia.fandom.com/wiki/Corym_Mines?file=Corym_Mines.png"
+  },
+  {
+    "name": "Demona",
+    "level": 60,
+    "location": "Carlin",
+    "category": "Low Level",
+    "id": 77,
+    "image": "https://tibia.fandom.com/wiki/Demona?file=Demona.png"
+  },
+  {
+    "name": "Edron Hero Cave",
+    "level": 60,
+    "location": "Edron",
+    "category": "Low Level",
+    "id": 78,
+    "image": "https://tibia.fandom.com/wiki/Edron_Hero_Cave?file=Edron_Hero_Cave.png"
+  },
+  {
+    "name": "Formorgar Mines",
+    "level": 60,
+    "location": "Svargrond",
+    "category": "Low Level",
+    "id": 79,
+    "image": "https://tibia.fandom.com/wiki/Formorgar_Mines?file=Formorgar_Mines.png"
+  },
+  {
+    "name": "Hero Cave",
+    "level": 60,
+    "location": "Edron",
+    "category": "Low Level",
+    "id": 80,
+    "image": "https://tibia.fandom.com/wiki/Hero_Cave?file=Hero_Cave.png"
+  },
+  {
+    "name": "Ashta'daramai",
+    "level": 65,
+    "location": "Ankrahmun",
+    "category": "Low Level",
+    "id": 81,
+    "image": "https://tibia.fandom.com/wiki/Ashta'daramai?file=Ashta'daramai.png"
+  },
+  {
+    "name": "Mother of Scarabs Lair -4/-5",
+    "level": 70,
+    "location": "-5",
+    "category": "Low Level",
+    "id": 82,
+    "image": "https://tibia.fandom.com/wiki/Mother_of_Scarabs_Lair_-4/-5?file=Mother_of_Scarabs_Lair_-4/-5.png"
+  },
+  {
+    "name": "Yalahar Bog Raiders Central",
+    "level": 70,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 83,
+    "image": "https://tibia.fandom.com/wiki/Yalahar_Bog_Raiders_Central?file=Yalahar_Bog_Raiders_Central.png"
+  },
+  {
+    "name": "Yalahar Alchemist Outskirts",
+    "level": 70,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 84,
+    "image": "https://tibia.fandom.com/wiki/Yalahar_Alchemist_Outskirts?file=Yalahar_Alchemist_Outskirts.png"
+  },
+  {
+    "name": "Hive Surface",
+    "level": 70,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 85,
+    "image": "https://tibia.fandom.com/wiki/Hive_Surface?file=Hive_Surface.png"
+  },
+  {
+    "name": "Chaochai",
+    "level": 70,
+    "location": "Farmine",
+    "category": "Low Level",
+    "id": 86,
+    "image": "https://tibia.fandom.com/wiki/Chaochai?file=Chaochai.png"
+  },
+  {
+    "name": "Giant Spiders PH",
+    "level": 80,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 87,
+    "image": "https://tibia.fandom.com/wiki/Giant_Spiders_PH?file=Giant_Spiders_PH.png"
+  },
+  {
+    "name": "Edron Vampire Crypt",
+    "level": 80,
+    "location": "Edron",
+    "category": "Low Level",
+    "id": 88,
+    "image": "https://tibia.fandom.com/wiki/Edron_Vampire_Crypt?file=Edron_Vampire_Crypt.png"
+  },
+  {
+    "name": "Okolnir",
+    "level": 80,
+    "location": "Svargrond",
+    "category": "Low Level",
+    "id": 89,
+    "image": "https://tibia.fandom.com/wiki/Okolnir?file=Okolnir.png"
+  },
+  {
+    "name": "Caverna Exanima",
+    "level": 80,
+    "location": "Darashia",
+    "category": "Low Level",
+    "id": 90,
+    "image": "https://tibia.fandom.com/wiki/Caverna_Exanima?file=Caverna_Exanima.png"
+  },
+  {
+    "name": "Crystal Gardens",
+    "level": 80,
+    "location": "Liberty Bay",
+    "category": "Low Level",
+    "id": 91,
+    "image": "https://tibia.fandom.com/wiki/Crystal_Gardens?file=Crystal_Gardens.png"
+  },
+  {
+    "name": "Elemental Spheres",
+    "level": 80,
+    "location": "Edron",
+    "category": "Low Level",
+    "id": 92,
+    "image": "https://tibia.fandom.com/wiki/Elemental_Spheres?file=Elemental_Spheres.png"
+  },
+  {
+    "name": "Goroma",
+    "level": 80,
+    "location": "Liberty Bay",
+    "category": "Low Level",
+    "id": 93,
+    "image": "https://tibia.fandom.com/wiki/Goroma?file=Goroma.png"
+  },
+  {
+    "name": "Grimvale",
+    "level": 80,
+    "location": "Edron",
+    "category": "Low Level",
+    "id": 94,
+    "image": "https://tibia.fandom.com/wiki/Grimvale?file=Grimvale.png"
+  },
+  {
+    "name": "Hydra Mountain",
+    "level": 80,
+    "location": "Port Hope",
+    "category": "Low Level",
+    "id": 95,
+    "image": "https://tibia.fandom.com/wiki/Hydra_Mountain?file=Hydra_Mountain.png"
+  },
+  {
+    "name": "Muggy Plains",
+    "level": 80,
+    "location": "Farmine",
+    "category": "Low Level",
+    "id": 96,
+    "image": "https://tibia.fandom.com/wiki/Muggy_Plains?file=Muggy_Plains.png"
+  },
+  {
+    "name": "Quara Caves",
+    "level": 80,
+    "location": "Liberty Bay",
+    "category": "Low Level",
+    "id": 97,
+    "image": "https://tibia.fandom.com/wiki/Quara_Caves?file=Quara_Caves.png"
+  },
+  {
+    "name": "Sunken Quarter",
+    "level": 80,
+    "location": "Yalahar",
+    "category": "Low Level",
+    "id": 98,
+    "image": "https://tibia.fandom.com/wiki/Sunken_Quarter?file=Sunken_Quarter.png"
+  },
+  {
+    "name": "Vampire Crypt",
+    "level": 80,
+    "location": "Edron",
+    "category": "Low Level",
+    "id": 99,
+    "image": "https://tibia.fandom.com/wiki/Vampire_Crypt?file=Vampire_Crypt.png"
+  },
+  {
+    "name": "Wyrms",
+    "level": 80,
+    "location": "Liberty Bay",
+    "category": "Low Level",
+    "id": 100,
+    "image": "https://tibia.fandom.com/wiki/Wyrms?file=Wyrms.png"
+  },
+  {
+    "name": "Carlin Cults",
+    "level": 90,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 101,
+    "image": "https://tibia.fandom.com/wiki/Carlin_Cults?file=Carlin_Cults.png"
+  },
+  {
+    "name": "Nightmare Scions Krailos",
+    "level": 90,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 102,
+    "image": "https://tibia.fandom.com/wiki/Nightmare_Scions_Krailos?file=Nightmare_Scions_Krailos.png"
+  },
+  {
+    "name": "Edron Heroes -2/-3",
+    "level": 90,
+    "location": "-3",
+    "category": "Low Level",
+    "id": 103,
+    "image": "https://tibia.fandom.com/wiki/Edron_Heroes_-2/-3?file=Edron_Heroes_-2/-3.png"
+  },
+  {
+    "name": "Fenrock Dragon Lords",
+    "level": 90,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 104,
+    "image": "https://tibia.fandom.com/wiki/Fenrock_Dragon_Lords?file=Fenrock_Dragon_Lords.png"
+  },
+  {
+    "name": "Inner Hive Stage2 East",
+    "level": 90,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 105,
+    "image": "https://tibia.fandom.com/wiki/Inner_Hive_Stage2_East?file=Inner_Hive_Stage2_East.png"
+  },
+  {
+    "name": "Krailos Bug Cave",
+    "level": 90,
+    "location": "Unknown",
+    "category": "Low Level",
+    "id": 106,
+    "image": "https://tibia.fandom.com/wiki/Krailos_Bug_Cave?file=Krailos_Bug_Cave.png"
+  },
+  {
+    "name": "Brimstone Bug Caves",
+    "level": 90,
+    "location": "Farmine",
+    "category": "Low Level",
+    "id": 107,
+    "image": "https://tibia.fandom.com/wiki/Brimstone_Bug_Caves?file=Brimstone_Bug_Caves.png"
+  },
+  {
+    "name": "Calassa",
+    "level": 90,
+    "location": "Liberty Bay",
+    "category": "Low Level",
+    "id": 108,
+    "image": "https://tibia.fandom.com/wiki/Calassa?file=Calassa.png"
+  },
+  {
+    "name": "Chazorai",
+    "level": 100,
+    "location": "Farmine",
+    "category": "Mid Level",
+    "id": 109,
+    "image": "https://tibia.fandom.com/wiki/Chazorai?file=Chazorai.png"
+  },
+  {
+    "name": "Corruption Hole",
+    "level": 100,
+    "location": "Farmine",
+    "category": "Mid Level",
+    "id": 110,
+    "image": "https://tibia.fandom.com/wiki/Corruption_Hole?file=Corruption_Hole.png"
+  },
+  {
+    "name": "Court of Summer",
+    "level": 100,
+    "location": "Feyrist",
+    "category": "Mid Level",
+    "id": 111,
+    "image": "https://tibia.fandom.com/wiki/Court_of_Summer?file=Court_of_Summer.png"
+  },
+  {
+    "name": "Court of Winter",
+    "level": 100,
+    "location": "Svargrond",
+    "category": "Mid Level",
+    "id": 112,
+    "image": "https://tibia.fandom.com/wiki/Court_of_Winter?file=Court_of_Winter.png"
+  },
+  {
+    "name": "Deeper Formorgar Mines",
+    "level": 100,
+    "location": "Svargrond",
+    "category": "Mid Level",
+    "id": 113,
+    "image": "https://tibia.fandom.com/wiki/Deeper_Formorgar_Mines?file=Deeper_Formorgar_Mines.png"
+  },
+  {
+    "name": "Glooth Factory",
+    "level": 100,
+    "location": "Rathleton",
+    "category": "Mid Level",
+    "id": 114,
+    "image": "https://tibia.fandom.com/wiki/Glooth_Factory?file=Glooth_Factory.png"
+  },
+  {
+    "name": "Hive",
+    "level": 100,
+    "location": "Gray Beach",
+    "category": "Mid Level",
+    "id": 115,
+    "image": "https://tibia.fandom.com/wiki/Hive?file=Hive.png"
+  },
+  {
+    "name": "Issavi",
+    "level": 100,
+    "location": "Issavi",
+    "category": "Mid Level",
+    "id": 116,
+    "image": "https://tibia.fandom.com/wiki/Issavi?file=Issavi.png"
+  },
+  {
+    "name": "Lava Lurkers",
+    "level": 100,
+    "location": "Kazordoon",
+    "category": "Mid Level",
+    "id": 117,
+    "image": "https://tibia.fandom.com/wiki/Lava_Lurkers?file=Lava_Lurkers.png"
+  },
+  {
+    "name": "Pits of Inferno",
+    "level": 100,
+    "location": "Venore",
+    "category": "Mid Level",
+    "id": 118,
+    "image": "https://tibia.fandom.com/wiki/Pits_of_Inferno?file=Pits_of_Inferno.png"
+  },
+  {
+    "name": "Rathleton",
+    "level": 100,
+    "location": "Rathleton",
+    "category": "Mid Level",
+    "id": 119,
+    "image": "https://tibia.fandom.com/wiki/Rathleton?file=Rathleton.png"
+  },
+  {
+    "name": "Sea Serpents",
+    "level": 100,
+    "location": "Svargrond",
+    "category": "Mid Level",
+    "id": 120,
+    "image": "https://tibia.fandom.com/wiki/Sea_Serpents?file=Sea_Serpents.png"
+  },
+  {
+    "name": "Vengoth",
+    "level": 100,
+    "location": "Yalahar",
+    "category": "Mid Level",
+    "id": 121,
+    "image": "https://tibia.fandom.com/wiki/Vengoth?file=Vengoth.png"
+  },
+  {
+    "name": "Warzones",
+    "level": 100,
+    "location": "Kazordoon",
+    "category": "Mid Level",
+    "id": 122,
+    "image": "https://tibia.fandom.com/wiki/Warzones?file=Warzones.png"
+  },
+  {
+    "name": "Werecreatures",
+    "level": 100,
+    "location": "Edron",
+    "category": "Mid Level",
+    "id": 123,
+    "image": "https://tibia.fandom.com/wiki/Werecreatures?file=Werecreatures.png"
+  },
+  {
+    "name": "Caves of the Lost",
+    "level": 110,
+    "location": "Kazordoon",
+    "category": "Mid Level",
+    "id": 124,
+    "image": "https://tibia.fandom.com/wiki/Caves_of_the_Lost?file=Caves_of_the_Lost.png"
+  },
+  {
+    "name": "Astral Shaper Dungeon",
+    "level": 120,
+    "location": "Port Hope",
+    "category": "Mid Level",
+    "id": 125,
+    "image": "https://tibia.fandom.com/wiki/Astral_Shaper_Dungeon?file=Astral_Shaper_Dungeon.png"
+  },
+  {
+    "name": "Ravenous Lava Lurkers",
+    "level": 130,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 126,
+    "image": "https://tibia.fandom.com/wiki/Ravenous_Lava_Lurkers?file=Ravenous_Lava_Lurkers.png"
+  },
+  {
+    "name": "Oramond West",
+    "level": 130,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 127,
+    "image": "https://tibia.fandom.com/wiki/Oramond_West?file=Oramond_West.png"
+  },
+  {
+    "name": "Yalahar Sunken Quarter",
+    "level": 130,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 128,
+    "image": "https://tibia.fandom.com/wiki/Yalahar_Sunken_Quarter?file=Yalahar_Sunken_Quarter.png"
+  },
+  {
+    "name": "Grimvale -4",
+    "level": 130,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 129,
+    "image": "https://tibia.fandom.com/wiki/Grimvale_-4?file=Grimvale_-4.png"
+  },
+  {
+    "name": "Hydras Oramond",
+    "level": 130,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 130,
+    "image": "https://tibia.fandom.com/wiki/Hydras_Oramond?file=Hydras_Oramond.png"
+  },
+  {
+    "name": "Mini Rosha",
+    "level": 130,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 131,
+    "image": "https://tibia.fandom.com/wiki/Mini_Rosha?file=Mini_Rosha.png"
+  },
+  {
+    "name": "Edron Orc Cults",
+    "level": 130,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 132,
+    "image": "https://tibia.fandom.com/wiki/Edron_Orc_Cults?file=Edron_Orc_Cults.png"
+  },
+  {
+    "name": "Dark Faun Cave",
+    "level": 130,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 133,
+    "image": "https://tibia.fandom.com/wiki/Dark_Faun_Cave?file=Dark_Faun_Cave.png"
+  },
+  {
+    "name": "Astral Shaper Ruins",
+    "level": 130,
+    "location": "Port Hope",
+    "category": "Mid Level",
+    "id": 134,
+    "image": "https://tibia.fandom.com/wiki/Astral_Shaper_Ruins?file=Astral_Shaper_Ruins.png"
+  },
+  {
+    "name": "Deeper Banuta",
+    "level": 130,
+    "location": "Port Hope",
+    "category": "Mid Level",
+    "id": 135,
+    "image": "https://tibia.fandom.com/wiki/Deeper_Banuta?file=Deeper_Banuta.png"
+  },
+  {
+    "name": "Barkless Ab Cults",
+    "level": 150,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 136,
+    "image": "https://tibia.fandom.com/wiki/Barkless_Ab_Cults?file=Barkless_Ab_Cults.png"
+  },
+  {
+    "name": "Lower Spike",
+    "level": 150,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 137,
+    "image": "https://tibia.fandom.com/wiki/Lower_Spike?file=Lower_Spike.png"
+  },
+  {
+    "name": "Elder Wyrms Drefia",
+    "level": 150,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 138,
+    "image": "https://tibia.fandom.com/wiki/Elder_Wyrms_Drefia?file=Elder_Wyrms_Drefia.png"
+  },
+  {
+    "name": "Edron South Werecreatures",
+    "level": 150,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 139,
+    "image": "https://tibia.fandom.com/wiki/Edron_South_Werecreatures?file=Edron_South_Werecreatures.png"
+  },
+  {
+    "name": "Oramond Minos",
+    "level": 150,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 140,
+    "image": "https://tibia.fandom.com/wiki/Oramond_Minos?file=Oramond_Minos.png"
+  },
+  {
+    "name": "Otherworld (Kazo)",
+    "level": 150,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 141,
+    "image": "https://tibia.fandom.com/wiki/Otherworld_(Kazo)?file=Otherworld_(Kazo).png"
+  },
+  {
+    "name": "Iksupan",
+    "level": 150,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 142,
+    "image": "https://tibia.fandom.com/wiki/Iksupan?file=Iksupan.png"
+  },
+  {
+    "name": "Barkless Cult Trial Zone",
+    "level": 150,
+    "location": "Ab'dendriel",
+    "category": "Mid Level",
+    "id": 143,
+    "image": "https://tibia.fandom.com/wiki/Barkless_Cult_Trial_Zone?file=Barkless_Cult_Trial_Zone.png"
+  },
+  {
+    "name": "Deeper Vengoth",
+    "level": 150,
+    "location": "Yalahar",
+    "category": "Mid Level",
+    "id": 144,
+    "image": "https://tibia.fandom.com/wiki/Deeper_Vengoth?file=Deeper_Vengoth.png"
+  },
+  {
+    "name": "Exotic Cave",
+    "level": 150,
+    "location": "Issavi",
+    "category": "Mid Level",
+    "id": 145,
+    "image": "https://tibia.fandom.com/wiki/Exotic_Cave?file=Exotic_Cave.png"
+  },
+  {
+    "name": "Glooth Bandits",
+    "level": 150,
+    "location": "Rathleton",
+    "category": "Mid Level",
+    "id": 146,
+    "image": "https://tibia.fandom.com/wiki/Glooth_Bandits?file=Glooth_Bandits.png"
+  },
+  {
+    "name": "Grim Reapers",
+    "level": 150,
+    "location": "Yalahar",
+    "category": "Mid Level",
+    "id": 147,
+    "image": "https://tibia.fandom.com/wiki/Grim_Reapers?file=Grim_Reapers.png"
+  },
+  {
+    "name": "Lizard City",
+    "level": 150,
+    "location": "Farmine",
+    "category": "Mid Level",
+    "id": 148,
+    "image": "https://tibia.fandom.com/wiki/Lizard_City?file=Lizard_City.png"
+  },
+  {
+    "name": "Zulazza the Corruptor",
+    "level": 150,
+    "location": "Farmine",
+    "category": "Mid Level",
+    "id": 149,
+    "image": "https://tibia.fandom.com/wiki/Zulazza_the_Corruptor?file=Zulazza_the_Corruptor.png"
+  },
+  {
+    "name": "Deeplings Library",
+    "level": 185,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 150,
+    "image": "https://tibia.fandom.com/wiki/Deeplings_Library?file=Deeplings_Library.png"
+  },
+  {
+    "name": "Yalahar Grim Reapers",
+    "level": 200,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 151,
+    "image": "https://tibia.fandom.com/wiki/Yalahar_Grim_Reapers?file=Yalahar_Grim_Reapers.png"
+  },
+  {
+    "name": "Werehyaenas South",
+    "level": 200,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 152,
+    "image": "https://tibia.fandom.com/wiki/Werehyaenas_South?file=Werehyaenas_South.png"
+  },
+  {
+    "name": "Werehyaenas North",
+    "level": 200,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 153,
+    "image": "https://tibia.fandom.com/wiki/Werehyaenas_North?file=Werehyaenas_North.png"
+  },
+  {
+    "name": "Seacrest Serpents",
+    "level": 200,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 154,
+    "image": "https://tibia.fandom.com/wiki/Seacrest_Serpents?file=Seacrest_Serpents.png"
+  },
+  {
+    "name": "Draken Walls",
+    "level": 200,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 155,
+    "image": "https://tibia.fandom.com/wiki/Draken_Walls?file=Draken_Walls.png"
+  },
+  {
+    "name": "Glooth Tower",
+    "level": 200,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 156,
+    "image": "https://tibia.fandom.com/wiki/Glooth_Tower?file=Glooth_Tower.png"
+  },
+  {
+    "name": "Hive Stage3",
+    "level": 200,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 157,
+    "image": "https://tibia.fandom.com/wiki/Hive_Stage3?file=Hive_Stage3.png"
+  },
+  {
+    "name": "Medusa Tower",
+    "level": 200,
+    "location": "Port Hope",
+    "category": "Mid Level",
+    "id": 158,
+    "image": "https://tibia.fandom.com/wiki/Medusa_Tower?file=Medusa_Tower.png"
+  },
+  {
+    "name": "Asura Palace",
+    "level": 200,
+    "location": "Port Hope",
+    "category": "Mid Level",
+    "id": 159,
+    "image": "https://tibia.fandom.com/wiki/Asura_Palace?file=Asura_Palace.png"
+  },
+  {
+    "name": "Abandoned Sewers",
+    "level": 200,
+    "location": "Rathleton",
+    "category": "Mid Level",
+    "id": 160,
+    "image": "https://tibia.fandom.com/wiki/Abandoned_Sewers?file=Abandoned_Sewers.png"
+  },
+  {
+    "name": "Inquisition",
+    "level": 200,
+    "location": "Venore",
+    "category": "Mid Level",
+    "id": 161,
+    "image": "https://tibia.fandom.com/wiki/Inquisition?file=Inquisition.png"
+  },
+  {
+    "name": "Lower Roshamuul",
+    "level": 200,
+    "location": "Roshamuul",
+    "category": "Mid Level",
+    "id": 162,
+    "image": "https://tibia.fandom.com/wiki/Lower_Roshamuul?file=Lower_Roshamuul.png"
+  },
+  {
+    "name": "Roshamuul",
+    "level": 200,
+    "location": "Roshamuul",
+    "category": "Mid Level",
+    "id": 163,
+    "image": "https://tibia.fandom.com/wiki/Roshamuul?file=Roshamuul.png"
+  },
+  {
+    "name": "Werehyaenas",
+    "level": 200,
+    "location": "Darashia",
+    "category": "Mid Level",
+    "id": 164,
+    "image": "https://tibia.fandom.com/wiki/Werehyaenas?file=Werehyaenas.png"
+  },
+  {
+    "name": "Carnivora's Rock",
+    "level": 250,
+    "location": "Unknown",
+    "category": "Mid Level",
+    "id": 165,
+    "image": "https://tibia.fandom.com/wiki/Carnivora's_Rock?file=Carnivora's_Rock.png"
+  },
+  {
+    "name": "Gazer Spectre",
+    "level": 250,
+    "location": "Port Hope",
+    "category": "Mid Level",
+    "id": 166,
+    "image": "https://tibia.fandom.com/wiki/Gazer_Spectre?file=Gazer_Spectre.png"
+  },
+  {
+    "name": "Ancient Ancestorial Grounds",
+    "level": 250,
+    "location": "Gray Beach",
+    "category": "Mid Level",
+    "id": 167,
+    "image": "https://tibia.fandom.com/wiki/Ancient_Ancestorial_Grounds?file=Ancient_Ancestorial_Grounds.png"
+  },
+  {
+    "name": "Bounac",
+    "level": 250,
+    "location": "Thais",
+    "category": "Mid Level",
+    "id": 168,
+    "image": "https://tibia.fandom.com/wiki/Bounac?file=Bounac.png"
+  },
+  {
+    "name": "Buried Cathedral",
+    "level": 250,
+    "location": "Roshamuul",
+    "category": "Mid Level",
+    "id": 169,
+    "image": "https://tibia.fandom.com/wiki/Buried_Cathedral?file=Buried_Cathedral.png"
+  },
+  {
+    "name": "Carnivora's Rocks",
+    "level": 250,
+    "location": "Port Hope",
+    "category": "Mid Level",
+    "id": 170,
+    "image": "https://tibia.fandom.com/wiki/Carnivora's_Rocks?file=Carnivora's_Rocks.png"
+  },
+  {
+    "name": "Drume",
+    "level": 250,
+    "location": "Issavi",
+    "category": "Mid Level",
+    "id": 171,
+    "image": "https://tibia.fandom.com/wiki/Drume?file=Drume.png"
+  },
+  {
+    "name": "Warzone 4",
+    "level": 300,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 172,
+    "image": "https://tibia.fandom.com/wiki/Warzone_4?file=Warzone_4.png"
+  },
+  {
+    "name": "Deeper Banuta (Bottom Floor)",
+    "level": 300,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 173,
+    "image": "https://tibia.fandom.com/wiki/Deeper_Banuta_(Bottom_Floor)?file=Deeper_Banuta_(Bottom_Floor).png"
+  },
+  {
+    "name": "Werelions -1",
+    "level": 300,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 174,
+    "image": "https://tibia.fandom.com/wiki/Werelions_-1?file=Werelions_-1.png"
+  },
+  {
+    "name": "Drefia Grim Reapers",
+    "level": 300,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 175,
+    "image": "https://tibia.fandom.com/wiki/Drefia_Grim_Reapers?file=Drefia_Grim_Reapers.png"
+  },
+  {
+    "name": "Werelions -2",
+    "level": 300,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 176,
+    "image": "https://tibia.fandom.com/wiki/Werelions_-2?file=Werelions_-2.png"
+  },
+  {
+    "name": "Wote 8 Drakens",
+    "level": 300,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 177,
+    "image": "https://tibia.fandom.com/wiki/Wote_8_Drakens?file=Wote_8_Drakens.png"
+  },
+  {
+    "name": "Oramond Fury Dungeon",
+    "level": 300,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 178,
+    "image": "https://tibia.fandom.com/wiki/Oramond_Fury_Dungeon?file=Oramond_Fury_Dungeon.png"
+  },
+  {
+    "name": "Diremaw Task Area",
+    "level": 300,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 179,
+    "image": "https://tibia.fandom.com/wiki/Diremaw_Task_Area?file=Diremaw_Task_Area.png"
+  },
+  {
+    "name": "Haunted House",
+    "level": 300,
+    "location": "Venore",
+    "category": "High Level",
+    "id": 180,
+    "image": "https://tibia.fandom.com/wiki/Haunted_House?file=Haunted_House.png"
+  },
+  {
+    "name": "Winter Court",
+    "level": 300,
+    "location": "Svargrond",
+    "category": "High Level",
+    "id": 181,
+    "image": "https://tibia.fandom.com/wiki/Winter_Court?file=Winter_Court.png"
+  },
+  {
+    "name": "Nightmare Isles",
+    "level": 300,
+    "location": "Roshamuul",
+    "category": "High Level",
+    "id": 182,
+    "image": "https://tibia.fandom.com/wiki/Nightmare_Isles?file=Nightmare_Isles.png"
+  },
+  {
+    "name": "Otherworld",
+    "level": 300,
+    "location": "Kazordoon",
+    "category": "High Level",
+    "id": 183,
+    "image": "https://tibia.fandom.com/wiki/Otherworld?file=Otherworld.png"
+  },
+  {
+    "name": "Asura Vaults",
+    "level": 300,
+    "location": "Port Hope",
+    "category": "High Level",
+    "id": 184,
+    "image": "https://tibia.fandom.com/wiki/Asura_Vaults?file=Asura_Vaults.png"
+  },
+  {
+    "name": "Barren Drift",
+    "level": 300,
+    "location": "Edron",
+    "category": "High Level",
+    "id": 185,
+    "image": "https://tibia.fandom.com/wiki/Barren_Drift?file=Barren_Drift.png"
+  },
+  {
+    "name": "Brain Grounds",
+    "level": 300,
+    "location": "Venore",
+    "category": "High Level",
+    "id": 186,
+    "image": "https://tibia.fandom.com/wiki/Brain_Grounds?file=Brain_Grounds.png"
+  },
+  {
+    "name": "Cobra Bastion",
+    "level": 300,
+    "location": "Ankrahmun",
+    "category": "High Level",
+    "id": 187,
+    "image": "https://tibia.fandom.com/wiki/Cobra_Bastion?file=Cobra_Bastion.png"
+  },
+  {
+    "name": "Floating Savants",
+    "level": 300,
+    "location": "Edron",
+    "category": "High Level",
+    "id": 188,
+    "image": "https://tibia.fandom.com/wiki/Floating_Savants?file=Floating_Savants.png"
+  },
+  {
+    "name": "Grounds of Undeath",
+    "level": 300,
+    "location": "Venore",
+    "category": "High Level",
+    "id": 189,
+    "image": "https://tibia.fandom.com/wiki/Grounds_of_Undeath?file=Grounds_of_Undeath.png"
+  },
+  {
+    "name": "Ingol",
+    "level": 300,
+    "location": "Edron",
+    "category": "High Level",
+    "id": 190,
+    "image": "https://tibia.fandom.com/wiki/Ingol?file=Ingol.png"
+  },
+  {
+    "name": "Marapur",
+    "level": 300,
+    "location": "Marapur",
+    "category": "High Level",
+    "id": 191,
+    "image": "https://tibia.fandom.com/wiki/Marapur?file=Marapur.png"
+  },
+  {
+    "name": "Oskayaat",
+    "level": 300,
+    "location": "Darashia",
+    "category": "High Level",
+    "id": 192,
+    "image": "https://tibia.fandom.com/wiki/Oskayaat?file=Oskayaat.png"
+  },
+  {
+    "name": "Prison",
+    "level": 300,
+    "location": "Roshamuul",
+    "category": "High Level",
+    "id": 193,
+    "image": "https://tibia.fandom.com/wiki/Prison?file=Prison.png"
+  },
+  {
+    "name": "Werelions",
+    "level": 300,
+    "location": "Darashia",
+    "category": "High Level",
+    "id": 194,
+    "image": "https://tibia.fandom.com/wiki/Werelions?file=Werelions.png"
+  },
+  {
+    "name": "Weretigers",
+    "level": 300,
+    "location": "Darashia",
+    "category": "High Level",
+    "id": 195,
+    "image": "https://tibia.fandom.com/wiki/Weretigers?file=Weretigers.png"
+  },
+  {
+    "name": "Asura Mirror -1",
+    "level": 350,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 196,
+    "image": "https://tibia.fandom.com/wiki/Asura_Mirror_-1?file=Asura_Mirror_-1.png"
+  },
+  {
+    "name": "Warzone 5",
+    "level": 350,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 197,
+    "image": "https://tibia.fandom.com/wiki/Warzone_5?file=Warzone_5.png"
+  },
+  {
+    "name": "Oramond Wildlife Raid",
+    "level": 350,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 198,
+    "image": "https://tibia.fandom.com/wiki/Oramond_Wildlife_Raid?file=Oramond_Wildlife_Raid.png"
+  },
+  {
+    "name": "Lower Rosha",
+    "level": 350,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 199,
+    "image": "https://tibia.fandom.com/wiki/Lower_Rosha?file=Lower_Rosha.png"
+  },
+  {
+    "name": "Winter Court behind TP/Portal",
+    "level": 350,
+    "location": "Portal",
+    "category": "High Level",
+    "id": 200,
+    "image": "https://tibia.fandom.com/wiki/Winter_Court_behind_TP/Portal?file=Winter_Court_behind_TP/Portal.png"
+  },
+  {
+    "name": "POI Infernatil Seal (Fire)",
+    "level": 350,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 201,
+    "image": "https://tibia.fandom.com/wiki/POI_Infernatil_Seal_(Fire)?file=POI_Infernatil_Seal_(Fire).png"
+  },
+  {
+    "name": "POI Dark Torturer Seal",
+    "level": 350,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 202,
+    "image": "https://tibia.fandom.com/wiki/POI_Dark_Torturer_Seal?file=POI_Dark_Torturer_Seal.png"
+  },
+  {
+    "name": "Ambassador's Mind",
+    "level": 350,
+    "location": "Issavi",
+    "category": "High Level",
+    "id": 203,
+    "image": "https://tibia.fandom.com/wiki/Ambassador's_Mind?file=Ambassador's_Mind.png"
+  },
+  {
+    "name": "Antrum of the Fallen",
+    "level": 350,
+    "location": "Kazordoon",
+    "category": "High Level",
+    "id": 204,
+    "image": "https://tibia.fandom.com/wiki/Antrum_of_the_Fallen?file=Antrum_of_the_Fallen.png"
+  },
+  {
+    "name": "Bounacean Lion",
+    "level": 350,
+    "location": "Edron",
+    "category": "High Level",
+    "id": 205,
+    "image": "https://tibia.fandom.com/wiki/Bounacean_Lion?file=Bounacean_Lion.png"
+  },
+  {
+    "name": "Buried Cathedral -1",
+    "level": 400,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 206,
+    "image": "https://tibia.fandom.com/wiki/Buried_Cathedral_-1?file=Buried_Cathedral_-1.png"
+  },
+  {
+    "name": "Burster Spectre",
+    "level": 400,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 207,
+    "image": "https://tibia.fandom.com/wiki/Burster_Spectre?file=Burster_Spectre.png"
+  },
+  {
+    "name": "Rosha West",
+    "level": 400,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 208,
+    "image": "https://tibia.fandom.com/wiki/Rosha_West?file=Rosha_West.png"
+  },
+  {
+    "name": "Prison -1",
+    "level": 400,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 209,
+    "image": "https://tibia.fandom.com/wiki/Prison_-1?file=Prison_-1.png"
+  },
+  {
+    "name": "Warzone 6",
+    "level": 400,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 210,
+    "image": "https://tibia.fandom.com/wiki/Warzone_6?file=Warzone_6.png"
+  },
+  {
+    "name": "POI Verminor Seal",
+    "level": 400,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 211,
+    "image": "https://tibia.fandom.com/wiki/POI_Verminor_Seal?file=POI_Verminor_Seal.png"
+  },
+  {
+    "name": "Marapur Turtles and Foam Stalkers",
+    "level": 400,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 212,
+    "image": "https://tibia.fandom.com/wiki/Marapur_Turtles_and_Foam_Stalkers?file=Marapur_Turtles_and_Foam_Stalkers.png"
+  },
+  {
+    "name": "POI Infernatil + DT Seals",
+    "level": 400,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 213,
+    "image": "https://tibia.fandom.com/wiki/POI_Infernatil_+_DT_Seals?file=POI_Infernatil_+_DT_Seals.png"
+  },
+  {
+    "name": "Nagas",
+    "level": 400,
+    "location": "Marapur",
+    "category": "High Level",
+    "id": 214,
+    "image": "https://tibia.fandom.com/wiki/Nagas?file=Nagas.png"
+  },
+  {
+    "name": "Bulltaur Lair",
+    "level": 400,
+    "location": "Venore",
+    "category": "High Level",
+    "id": 215,
+    "image": "https://tibia.fandom.com/wiki/Bulltaur_Lair?file=Bulltaur_Lair.png"
+  },
+  {
+    "name": "Deeper Ingol",
+    "level": 400,
+    "location": "Edron",
+    "category": "High Level",
+    "id": 216,
+    "image": "https://tibia.fandom.com/wiki/Deeper_Ingol?file=Deeper_Ingol.png"
+  },
+  {
+    "name": "Elite Skeleton Warrior",
+    "level": 400,
+    "location": "Darashia",
+    "category": "High Level",
+    "id": 217,
+    "image": "https://tibia.fandom.com/wiki/Elite_Skeleton_Warrior?file=Elite_Skeleton_Warrior.png"
+  },
+  {
+    "name": "Falcon Bastion",
+    "level": 400,
+    "location": "Edron",
+    "category": "High Level",
+    "id": 218,
+    "image": "https://tibia.fandom.com/wiki/Falcon_Bastion?file=Falcon_Bastion.png"
+  },
+  {
+    "name": "Ferumbras' Ascendant",
+    "level": 400,
+    "location": "Darashia",
+    "category": "High Level",
+    "id": 219,
+    "image": "https://tibia.fandom.com/wiki/Ferumbras'_Ascendant?file=Ferumbras'_Ascendant.png"
+  },
+  {
+    "name": "Flimsy Lost Souls",
+    "level": 400,
+    "location": "Venore",
+    "category": "High Level",
+    "id": 220,
+    "image": "https://tibia.fandom.com/wiki/Flimsy_Lost_Souls?file=Flimsy_Lost_Souls.png"
+  },
+  {
+    "name": "Summer Court for first timers (half boxes)",
+    "level": 450,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 221,
+    "image": "https://tibia.fandom.com/wiki/Summer_Court_for_first_timers_(half_boxes)?file=Summer_Court_for_first_timers_(half_boxes).png"
+  },
+  {
+    "name": "Roshamuul Shockheads",
+    "level": 450,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 222,
+    "image": "https://tibia.fandom.com/wiki/Roshamuul_Shockheads?file=Roshamuul_Shockheads.png"
+  },
+  {
+    "name": "Prison -2",
+    "level": 450,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 223,
+    "image": "https://tibia.fandom.com/wiki/Prison_-2?file=Prison_-2.png"
+  },
+  {
+    "name": "Issavi Crypts (Sphinx",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 224,
+    "image": "https://tibia.fandom.com/wiki/Issavi_Crypts_(Sphinx?file=Issavi_Crypts_(Sphinx.png"
+  },
+  {
+    "name": "Summer Court full boxing",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 225,
+    "image": "https://tibia.fandom.com/wiki/Summer_Court_full_boxing?file=Summer_Court_full_boxing.png"
+  },
+  {
+    "name": "Cobra Bastion for Beginners",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 226,
+    "image": "https://tibia.fandom.com/wiki/Cobra_Bastion_for_Beginners?file=Cobra_Bastion_for_Beginners.png"
+  },
+  {
+    "name": "Oskayaat Weretigers",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 227,
+    "image": "https://tibia.fandom.com/wiki/Oskayaat_Weretigers?file=Oskayaat_Weretigers.png"
+  },
+  {
+    "name": "Oskayaat Werecrocodiles",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 228,
+    "image": "https://tibia.fandom.com/wiki/Oskayaat_Werecrocodiles?file=Oskayaat_Werecrocodiles.png"
+  },
+  {
+    "name": "Deathlings",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 229,
+    "image": "https://tibia.fandom.com/wiki/Deathlings?file=Deathlings.png"
+  },
+  {
+    "name": "Oramond Catacombs",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 230,
+    "image": "https://tibia.fandom.com/wiki/Oramond_Catacombs?file=Oramond_Catacombs.png"
+  },
+  {
+    "name": "Warzone 2",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 231,
+    "image": "https://tibia.fandom.com/wiki/Warzone_2?file=Warzone_2.png"
+  },
+  {
+    "name": "INQ Dark Torturer Seal",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 232,
+    "image": "https://tibia.fandom.com/wiki/INQ_Dark_Torturer_Seal?file=INQ_Dark_Torturer_Seal.png"
+  },
+  {
+    "name": "Floating Savants MoTA",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 233,
+    "image": "https://tibia.fandom.com/wiki/Floating_Savants_MoTA?file=Floating_Savants_MoTA.png"
+  },
+  {
+    "name": "Warzone 8",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 234,
+    "image": "https://tibia.fandom.com/wiki/Warzone_8?file=Warzone_8.png"
+  },
+  {
+    "name": "Warzone 1",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 235,
+    "image": "https://tibia.fandom.com/wiki/Warzone_1?file=Warzone_1.png"
+  },
+  {
+    "name": "Carnisylvans",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 236,
+    "image": "https://tibia.fandom.com/wiki/Carnisylvans?file=Carnisylvans.png"
+  },
+  {
+    "name": "Warzone 7",
+    "level": 500,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 237,
+    "image": "https://tibia.fandom.com/wiki/Warzone_7?file=Warzone_7.png"
+  },
+  {
+    "name": "True Asuras",
+    "level": 500,
+    "location": "Port Hope",
+    "category": "High Level",
+    "id": 238,
+    "image": "https://tibia.fandom.com/wiki/True_Asuras?file=True_Asuras.png"
+  },
+  {
+    "name": "Cobra Bastion -1",
+    "level": 550,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 239,
+    "image": "https://tibia.fandom.com/wiki/Cobra_Bastion_-1?file=Cobra_Bastion_-1.png"
+  },
+  {
+    "name": "Flimsy Venore -1",
+    "level": 550,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 240,
+    "image": "https://tibia.fandom.com/wiki/Flimsy_Venore_-1?file=Flimsy_Venore_-1.png"
+  },
+  {
+    "name": "Flimsy Port Hope",
+    "level": 550,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 241,
+    "image": "https://tibia.fandom.com/wiki/Flimsy_Port_Hope?file=Flimsy_Port_Hope.png"
+  },
+  {
+    "name": "Bashmu",
+    "level": 550,
+    "location": "Unknown",
+    "category": "High Level",
+    "id": 242,
+    "image": "https://tibia.fandom.com/wiki/Bashmu?file=Bashmu.png"
+  },
+  {
+    "name": "Issavi Surface (East)",
+    "level": 600,
+    "location": "Unknown",
+    "category": "End Game",
+    "id": 243,
+    "image": "https://tibia.fandom.com/wiki/Issavi_Surface_(East)?file=Issavi_Surface_(East).png"
+  },
+  {
+    "name": "Issavi Sewers",
+    "level": 600,
+    "location": "Unknown",
+    "category": "End Game",
+    "id": 244,
+    "image": "https://tibia.fandom.com/wiki/Issavi_Sewers?file=Issavi_Sewers.png"
+  },
+  {
+    "name": "Temple of the Sun and Sea",
+    "level": 600,
+    "location": "Unknown",
+    "category": "End Game",
+    "id": 245,
+    "image": "https://tibia.fandom.com/wiki/Temple_of_the_Sun_and_Sea?file=Temple_of_the_Sun_and_Sea.png"
+  },
+  {
+    "name": "Oramond Mountain Hideout -1/-2",
+    "level": 600,
+    "location": "-2",
+    "category": "End Game",
+    "id": 246,
+    "image": "https://tibia.fandom.com/wiki/Oramond_Mountain_Hideout_-1/-2?file=Oramond_Mountain_Hideout_-1/-2.png"
+  },
+  {
+    "name": "Claustrophobic Inferno",
+    "level": 600,
+    "location": "Kilmaresh",
+    "category": "End Game",
+    "id": 247,
+    "image": "https://tibia.fandom.com/wiki/Claustrophobic_Inferno?file=Claustrophobic_Inferno.png"
+  },
+  {
+    "name": "Crystal Enigma",
+    "level": 600,
+    "location": "Edron",
+    "category": "End Game",
+    "id": 248,
+    "image": "https://tibia.fandom.com/wiki/Crystal_Enigma?file=Crystal_Enigma.png"
+  },
+  {
+    "name": "Gnomprona",
+    "level": 600,
+    "location": "Edron",
+    "category": "End Game",
+    "id": 249,
+    "image": "https://tibia.fandom.com/wiki/Gnomprona?file=Gnomprona.png"
+  },
+  {
+    "name": "Secret Library",
+    "level": 600,
+    "location": "Edron",
+    "category": "End Game",
+    "id": 250,
+    "image": "https://tibia.fandom.com/wiki/Secret_Library?file=Secret_Library.png"
+  },
+  {
+    "name": "Azzilon Castle",
+    "level": 700,
+    "location": "Edron",
+    "category": "End Game",
+    "id": 251,
+    "image": "https://tibia.fandom.com/wiki/Azzilon_Castle?file=Azzilon_Castle.png"
+  },
+  {
+    "name": "Azzilon Catacombs",
+    "level": 700,
+    "location": "Edron",
+    "category": "End Game",
+    "id": 252,
+    "image": "https://tibia.fandom.com/wiki/Azzilon_Catacombs?file=Azzilon_Catacombs.png"
+  },
+  {
+    "name": "Soul War",
+    "level": 800,
+    "location": "Thais",
+    "category": "End Game",
+    "id": 253,
+    "image": "https://tibia.fandom.com/wiki/Soul_War?file=Soul_War.png"
+  }
